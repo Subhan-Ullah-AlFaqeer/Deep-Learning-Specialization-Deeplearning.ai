@@ -1,4 +1,4 @@
-[Open document.pdf](C1_W1.pdf)
+[Lecture Files](C1_W1.pdf)
 
 Analyze the major trends driving the rise of deep learning, and give examples of where and how it is applied today.
 
