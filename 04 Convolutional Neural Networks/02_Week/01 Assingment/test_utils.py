@@ -13,7 +13,7 @@ from tensorflow.keras.layers import Dense
 # Compare the two inputs
 def comparator(learner, instructor):
     if len(learner) != len(instructor):
-        raise AssertionError(f"The number of layers in the model is incorrect. Expected: {len(instructor)} Found: {len(learner)}") 
+        raise AssertionError(f'Models does not have the same number of layers {len(learner)} != {len(instructor)}')
     for a, b in zip(learner, instructor):
         if tuple(a) != tuple(b):
             print(colored("Test failed", attrs=['bold']),
