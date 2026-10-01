@@ -1,3 +1,5 @@
+
+```
 1.Create positional encodings to capture sequential relationships in data
 2.Calculate scaled dot-product self-attention with word embeddings
 3.Implement masked multi-head attention
