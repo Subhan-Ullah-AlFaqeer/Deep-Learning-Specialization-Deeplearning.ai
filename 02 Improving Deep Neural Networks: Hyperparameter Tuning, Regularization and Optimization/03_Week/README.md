@@ -62,9 +62,9 @@ The mathematical equations, Batch Normalization execution, and TensorFlow automa
 
 ---
 
+
 ## 🛠️ Production Tech Stack & Ecosystem
 
-| Deep Learning Framework | High-Performance Data Input | Interactive Environment |
-| --- | --- | --- |
-|  |  |  |
-
+| Deep Learning Framework | Tensor Mechanics & Math  | Interactive Environment |
+| :---: | :---: |  :---: |
+| ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x_Keras-FF6F00?style=flat&logo=tensorflow&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-Array_Operations-013243?style=flat&logo=numpy&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-Loss_Convergence-11557c?style=flat&logo=python&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-Interactive_Labs-FA0F00?style=flat&logo=jupyter&logoColor=white) |
