@@ -1,4 +1,14 @@
 
+<div align="center">
+
+# 🚀 DeepLearning.AI: Deep Learning Specialization
+[![DeepLearning.AI Specialization](https://img.shields.io/badge/Certification-DeepLearning.AI%20Deep%20Learning-blue?style=for-the-badge&logo=deeplearningdotai)](https://coursera.org/share/46a33bdaea22df2b6176d73109b63b42)
+[![Status](https://img.shields.io/badge/Progress-01%20Course%20Complete-success?style=for-the-badge)](https://coursera.org/share/423715cf91392b4268595a253eeb96a8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
+
+---
+</div>
+
 # 🧠 Course 1: Neural Networks and Deep Learning
 
 Welcome to the root repository for **Course 1: Neural Networks and Deep Learning**, the foundational first module of the **DeepLearning.AI Deep Learning Specialization**, taught by Andrew Ng.
@@ -69,3 +79,23 @@ The complete modular deep learning engineering execution cycle established throu
 | :---: | :---: | :---: |
 | ![NumPy](https://img.shields.io/badge/NumPy-Vectorized_Engine-013243?style=flat&logo=numpy&logoColor=white) | ![HDF5 / PIL](https://img.shields.io/badge/H5py%2FPIL-Image_Handling-3776AB?style=flat&logo=python&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-Interactive_Labs-FA0F00?style=flat&logo=jupyter&logoColor=white) |
 
+
+
+
+---
+## 🚀 Professional Credentials
+
+Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
+
+🎓 **Coursera Professional Certificate Verified** 
+
+<div align="center">
+
+
+| **Official Certificate** |
+| :---: |
+| <a href="https://coursera.org/share/423715cf91392b4268595a253eeb96a8"><img src="../certificates/001 Neural Networks and Deep Learning-1.png" width="580" alt="View Certificate"></a> |
+| [🛡️ Verify on Coursera](https://coursera.org/share/423715cf91392b4268595a253eeb96a8) |
+
+
+</div>
