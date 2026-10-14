@@ -1,3 +1,14 @@
+<div align="center">
+
+# 🚀 DeepLearning.AI: Deep Learning Specialization
+
+[![DeepLearning.AI Specialization](https://img.shields.io/badge/Certification-DeepLearning.AI%20Deep%20Learning-blue?style=for-the-badge&logo=deeplearningdotai)](https://coursera.org/share/46a33bdaea22df2b6176d73109b63b42)
+[![Status](https://img.shields.io/badge/Progress-04%20Course%20Complete-success?style=for-the-badge)](https://coursera.org/share/37b3000023c457ead60c5f3e398aaae4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
+
+---
+</div>
+
 # 👁️ Course 4: Convolutional Neural Networks
 
 Welcome to **Course 4** of the **DeepLearning.AI Deep Learning Specialization**! This course provides a comprehensive exploration of modern Computer Vision, taking you from foundational 2D spatial convolution mathematics to state-of-the-art visual perception pipelines. You will master the building blocks of deep ConvNets, residual architectures, single-shot real-time object detection systems, semantic segmentation models, low-dimensional facial metric learning, and neural synthesis engines.
@@ -79,3 +90,20 @@ The unified diagnostic equations and mathematical foundations governing Course 4
 | Deep Learning Framework | Computer Vision Engine | Pre-trained Models | Interactive Environment |
 | :---: | :---: | :---: | :---: |
 | ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x_Keras-FF6F00?style=flat&logo=tensorflow&logoColor=white) | ![OpenCV](https://img.shields.io/badge/Vision-YOLO_v2_&_UNet-0056D2?style=flat&logo=opencv&logoColor=white) | ![Keras Apps](https://img.shields.io/badge/Keras_Apps-ResNet_MobileNet_VGG-D00000?style=flat&logo=keras&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-Interactive_Labs-FA0F00?style=flat&logo=jupyter&logoColor=white) |
+---
+## 🚀 Professional Credentials
+
+Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
+
+🎓 **Coursera Professional Certificate Verified** 
+
+<div align="center">
+
+
+| **Official Certificate** |
+| :---: |
+| <a href="https://coursera.org/share/37b3000023c457ead60c5f3e398aaae4"><img src="../certificates/004 Coursera Convolutional Neural Networks-1.png" width="580" alt="View Certificate"></a> |
+| [🛡️ Verify on Coursera](https://coursera.org/share/37b3000023c457ead60c5f3e398aaae4) |
+
+
+</div> 
