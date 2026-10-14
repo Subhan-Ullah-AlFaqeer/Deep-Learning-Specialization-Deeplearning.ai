@@ -1,4 +1,15 @@
 
+<div align="center">
+
+# 🚀 DeepLearning.AI: Deep Learning Specialization
+
+[![DeepLearning.AI Specialization](https://img.shields.io/badge/Certification-DeepLearning.AI%20Deep%20Learning-blue?style=for-the-badge&logo=deeplearningdotai)](https://coursera.org/share/46a33bdaea22df2b6176d73109b63b42)
+[![Status](https://img.shields.io/badge/Progress-03%20Course%20Complete-success?style=for-the-badge)](https://coursera.org/share/fb072880a41cd584dd70306469066e8d)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
+
+---
+</div>
+
 # 🧭 Course 3: Structuring Machine Learning Projects
 
 Welcome to **Course 3** of the **DeepLearning.AI Deep Learning Specialization**! This course equips you with the strategic decision-making frameworks and diagnostic methodologies required to manage, structure, and lead production-grade machine learning initiatives. Drawing directly on Andrew Ng's extensive experience building and shipping AI systems, this module bridges the gap between theoretical knowledge and real-world industrial execution.
@@ -73,3 +84,21 @@ $$\mathcal{L}(\hat{\mathbf{y}}, \mathbf{y}) = -\frac{1}{m} \sum_{i=1}^{m} \sum_{
 | :---: | :---: | :---: |
 | ![Python](https://img.shields.io/badge/Python-3.x_Strategy-3776AB?style=flat&logo=python&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-Interactive_Labs-FA0F00?style=flat&logo=jupyter&logoColor=white) | ![Coursera](https://img.shields.io/badge/Coursera-Flight_Simulator-0056D2?style=flat&logo=coursera&logoColor=white) |
 
+
+---
+## 🚀 Professional Credentials
+
+Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
+
+🎓 **Coursera Professional Certificate Verified** 
+
+<div align="center">
+
+
+| **Official Certificate** |
+| :---: |
+| <a href="https://coursera.org/share/fb072880a41cd584dd70306469066e8d"><img src="../certificates/003 Coursera Structuring Machine Learning Projects-1.png" width="580" alt="View Certificate"></a> |
+| [🛡️ Verify on Coursera](https://coursera.org/share/fb072880a41cd584dd70306469066e8d) |
+
+
+</div> 
