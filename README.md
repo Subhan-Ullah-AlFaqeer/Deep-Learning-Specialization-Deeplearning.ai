@@ -1,3 +1,16 @@
+
+<div align="center">
+
+# 🚀 DeepLearning.AI: Deep Learning Specialization
+
+[![DeepLearning.AI Specialization](https://img.shields.io/badge/Certification-DeepLearning.AI%20Deep%20Learning-blue?style=for-the-badge&logo=deeplearningdotai)](https://coursera.org/share/46a33bdaea22df2b6176d73109b63b42)
+[![Status](https://img.shields.io/badge/Progress-all%20Courses%20Complete-success?style=for-the-badge)](https://coursera.org/share/46a33bdaea22df2b6176d73109b63b42)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
+
+---
+</div>
+
+#   Specialization Overview:
 # 🚀 DeepLearning.AI: Deep Learning Specialization
 
 Welcome to the root repository for the **DeepLearning.AI Deep Learning Specialization**, instructed by Andrew Ng! This repository serves as a production-grade, fully vectorized, copy-paste intact portfolio containing all theoretical foundations, mathematical derivations, Jupyter notebook implementations, and specialized neural network architectures across the entire 5-course series.
@@ -75,3 +88,23 @@ The unified diagnostic equations governing the 5-course specialization architect
 | Deep Learning Frameworks | Computer Vision & Audio | NLP & Transformer Ecosystem | Environment & Math |
 | :---: | :---: | :---: | :---: |
 | ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x_Keras-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-1.x_&_2.x-EE4C2C?style=flat&logo=pytorch&logoColor=white) | ![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-5C3EE8?style=flat&logo=opencv&logoColor=white) ![PyDub](https://img.shields.io/badge/PyDub-Audio_Spectrograms-0056D2?style=flat&logo=python&logoColor=white) | ![Hugging Face](https://img.shields.io/badge/Hugging_Face-Transformers_&_Tokenizers-FFD21E?style=flat&logo=huggingface&logoColor=black) | ![NumPy](https://img.shields.io/badge/NumPy-Vectorized_Math-013243?style=flat&logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-Interactive_Notebooks-FA0F00?style=flat&logo=jupyter&logoColor=white) |
+
+
+
+---
+## 🚀 Professional Credentials
+
+Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
+
+🎓 **Coursera Professional Certificate Verified** 
+
+<div align="center">
+
+
+| **Official Certificate** |
+| :---: |
+| <a href="https://coursera.org/share/46a33bdaea22df2b6176d73109b63b42"><img src="certificates/Coursera Deep Learning Specialization Certificate-1.png" width="580" alt="View Certificate"></a> |
+| [🛡️ Verify on Coursera](https://coursera.org/share/46a33bdaea22df2b6176d73109b63b42) |
+
+
+</div> 
