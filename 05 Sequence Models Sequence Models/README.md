@@ -1,3 +1,14 @@
+<div align="center">
+
+# 🚀 DeepLearning.AI: Deep Learning Specialization
+
+[![DeepLearning.AI Specialization](https://img.shields.io/badge/Certification-DeepLearning.AI%20Deep%20Learning-blue?style=for-the-badge&logo=deeplearningdotai)](https://coursera.org/share/46a33bdaea22df2b6176d73109b63b42)
+[![Status](https://img.shields.io/badge/Progress-05%20Course%20Complete-success?style=for-the-badge)](https://coursera.org/share/0ec3cf5874c75c841845dcc08bbd3cef)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
+
+---
+</div>
+
 # 🔤 Course 5: Sequence Models
 
 Welcome to **Course 5** of the **DeepLearning.AI Deep Learning Specialization**! This course provides a comprehensive exploration of sequential and temporal data modeling—from classical recurrent architectures to modern attention-driven Transformer networks. You will master the mechanisms underlying natural language processing (NLP), speech recognition, polyphonic music generation, time-series modeling, and neural machine translation.
@@ -79,3 +90,22 @@ $$\text{MultiHead}(Q, K, V) = \text{Concat}(\text{head}_1, \dots, \text{head}_h)
 | Deep Learning Framework | NLP & Transformer Ecosystem | Signal & Audio Processing | Interactive Environment |
 | :---: | :---: | :---: | :---: |
 | ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x_Keras-FF6F00?style=flat&logo=tensorflow&logoColor=white) | ![Hugging Face](https://img.shields.io/badge/Hugging_Face-Transformers_&_Datasets-FFD21E?style=flat&logo=huggingface&logoColor=black) | ![PyDub](https://img.shields.io/badge/PyDub-Audio_&_MIDI-0056D2?style=flat&logo=python&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-Interactive_Labs-FA0F00?style=flat&logo=jupyter&logoColor=white) |
+
+
+---
+## 🚀 Professional Credentials
+
+Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
+
+🎓 **Coursera Professional Certificate Verified** 
+
+<div align="center">
+
+
+| **Official Certificate** |
+| :---: |
+| <a href="https://coursera.org/share/0ec3cf5874c75c841845dcc08bbd3cef"><img src="../certificates/005 Coursera Sequence Models-1.png" width="580" alt="View Certificate"></a> |
+| [🛡️ Verify on Coursera](https://coursera.org/share/0ec3cf5874c75c841845dcc08bbd3cef) |
+
+
+</div> 
