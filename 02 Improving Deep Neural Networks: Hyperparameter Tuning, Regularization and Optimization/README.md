@@ -1,3 +1,13 @@
+<div align="center">
+
+# 🚀 DeepLearning.AI: Deep Learning Specialization
+
+[![DeepLearning.AI Specialization](https://img.shields.io/badge/Certification-DeepLearning.AI%20Deep%20Learning-blue?style=for-the-badge&logo=deeplearningdotai)](https://coursera.org/share/46a33bdaea22df2b6176d73109b63b42)
+[![Status](https://img.shields.io/badge/Progress-02%20Course%20Complete-success?style=for-the-badge)](https://coursera.org/share/64cb11e7fb9d8a4417ff0dfab3d1af71)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
+
+---
+</div>
 
 # ⚡ Course 2: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
 
@@ -79,3 +89,23 @@ The unified computational flow spanning training optimization, parameter update 
 | :---: | :---: | :---: | :---: |
 | ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x_Keras-FF6F00?style=flat&logo=tensorflow&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-Array_Operations-013243?style=flat&logo=numpy&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-Loss_Convergence-11557c?style=flat&logo=python&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-Interactive_Labs-FA0F00?style=flat&logo=jupyter&logoColor=white) |
 
+
+
+
+---
+## 🚀 Professional Credentials
+
+Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
+
+🎓 **Coursera Professional Certificate Verified** 
+
+<div align="center">
+
+
+| **Official Certificate** |
+| :---: |
+| <a href="https://coursera.org/share/64cb11e7fb9d8a4417ff0dfab3d1af71"><img src="../certificates/002 Coursera Improving Deep Neural Networks_ Hyperparameter Tuning, Regularization and Optimization-1.png" width="580" alt="View Certificate"></a> |
+| [🛡️ Verify on Coursera](https://coursera.org/share/64cb11e7fb9d8a4417ff0dfab3d1af71) |
+
+
+</div> 
